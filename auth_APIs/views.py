@@ -539,5 +539,3 @@ class UserSearchView(ListCreateAPIView):
             }
             return Response(response, status=status.HTTP_400_BAD_REQUEST)
 
-
-#dsgsd
